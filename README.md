@@ -60,7 +60,7 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 ## 🌍 About Me
 
 - 🏢 Systems & Electronics Engineer at **GreenWheels Tanzania**
-- 🛠️ Founder of **Bobtem Tech Solutions** — freelance hardware+software consultancy
+- 🛠️ Founder of **BobLabs** — freelance hardware+software consultancy
 - 📍 Based in **Dar es Salaam**, Tanzania · Available remote worldwide
 - 🔌 Deep background in power electronics — UPS (6KVA NPC inverter, SiC MOSFETs), VFDs, LiFePO4 battery packs
 - 📡 Telecoms background — GSM/GPRS integration, antenna design, TANESCO-adjacent infrastructure
