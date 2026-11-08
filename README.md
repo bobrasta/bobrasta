@@ -1,4 +1,4 @@
-# Hi, I'm Neville Temu (Bob temu) 👋
+# Hi, I'm Neville Temu (Bob Temu) 👋
 
 **Systems & Electronics Engineer** based in Dar es Salaam, Tanzania.  
 I design the hardware, write the firmware, build the backend, and ship the mobile app — one engineer, complete solutions.
@@ -11,7 +11,7 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1B6AC6?style=flat&logoColor=white)
-![KiCad](https://img.shields.io/badge/PCB_Design-314CB0?style=flat&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-314CB0?style=flat&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
@@ -29,6 +29,8 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 ### 📡 Protocols & IoT
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![RS-485](https://img.shields.io/badge/RS--485-grey?style=flat)
+![Modbus RTU](https://img.shields.io/badge/Modbus_RTU-grey?style=flat)
+![Web Serial](https://img.shields.io/badge/Web_Serial-grey?style=flat)
 ![UART](https://img.shields.io/badge/UART-grey?style=flat)
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat&logo=bluetooth&logoColor=white)
 ![GPS/NMEA](https://img.shields.io/badge/GPS%2FNMEA-34A853?style=flat&logo=googlemaps&logoColor=white)
@@ -41,8 +43,8 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 |---|---|---|
 | 🔋 **JBD BMS Reverse Engineer** | Web Serial · RS-485 · JS | Browser-based RS-485 monitor & passive UART sniffer for 24S/100A JBD battery management systems |
 | ⚡ **VFD Controller** | STM32G4 · EasyEDA · C | Commercial variable frequency drive — gate drivers, DESAT protection, Modbus RTU, PCB to production |
-| 🏥 **HyperMed Healthcare API** | Laravel · Flutter · REST | Biomedical equipment management platform — Windows desktop + mobile app |
-| 🛵 **ZWK Controller RE** | CW32F030 · Web Serial · 1-Wire | Full reverse-engineering of a 2kW motorcycle controller with Chrome-based ISP flashing tool |
+| 🏥 **[HyperMed Healthcare API](https://github.com/bobrasta/hypermed-api)** | Laravel · Flutter · REST | Biomedical equipment management platform — Windows desktop + mobile app |
+| 🛵 **ZWK Controller RE** | CW32F030 · Web Serial · 1-Wire | Full reverse-engineering of a 2 kW motorcycle controller with Chrome-based ISP flashing tool |
 | 🌍 **GPS Fleet System** | WordPress · PHP · MySQL · NMEA | Real-time fleet tracking with IMEI device management and custom session auth |
 
 ---
@@ -50,8 +52,8 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobrasta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobrasta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bobrasta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobrasta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160" alt="Top languages" />
 </p>
 
 ---
@@ -59,8 +61,7 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 ## 🌍 About Me
 
 - 🛠️ Founder of **BobLabs** — freelance hardware+software consultancy
-- 📍 Based in **Dar es Salaam**, Tanzania · Available remote worldwide
-- 🔌 Deep background in power electronics — UPS (6KVA NPC inverter, SiC MOSFETs), VFDs, LiFePO4 battery packs
+- 🔌 Deep background in power electronics — UPS (6 kVA NPC inverter, SiC MOSFETs), VFDs, LiFePO4 battery packs
 - 📡 Telecoms background — GSM/GPRS integration, antenna design, TANESCO-adjacent infrastructure
 
 ---
