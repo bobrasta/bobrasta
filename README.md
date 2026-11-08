@@ -39,7 +39,6 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏍️ **GreenWheels EV CRM** | Laravel 11 · PHP · MySQL · Alpine.js | Full business management system for an electric motorcycle company — hire purchase, fleet GPS, accounting, collections |
 | 🔋 **JBD BMS Reverse Engineer** | Web Serial · RS-485 · JS | Browser-based RS-485 monitor & passive UART sniffer for 24S/100A JBD battery management systems |
 | ⚡ **VFD Controller** | STM32G4 · EasyEDA · C | Commercial variable frequency drive — gate drivers, DESAT protection, Modbus RTU, PCB to production |
 | 🏥 **HyperMed Healthcare API** | Laravel · Flutter · REST | Biomedical equipment management platform — Windows desktop + mobile app |
@@ -59,7 +58,6 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 
 ## 🌍 About Me
 
-- 🏢 Systems & Electronics Engineer at **GreenWheels Tanzania**
 - 🛠️ Founder of **BobLabs** — freelance hardware+software consultancy
 - 📍 Based in **Dar es Salaam**, Tanzania · Available remote worldwide
 - 🔌 Deep background in power electronics — UPS (6KVA NPC inverter, SiC MOSFETs), VFDs, LiFePO4 battery packs
@@ -71,7 +69,6 @@ I design the hardware, write the firmware, build the backend, and ship the mobil
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bobrasta.github.io-blue?style=flat&logo=github)](https://bobrasta.github.io)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/255625697863)
-[![Email](https://img.shields.io/badge/Email-tech@greenwheels.tz-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tech@greenwheels.tz)
 [![Instagram](https://img.shields.io/badge/Instagram-bobtem-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/bobtem/)
 
 ---
