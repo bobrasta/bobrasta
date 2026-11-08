@@ -1,4 +1,4 @@
-# Hi, I'm Neville Temu (Bob Temu) 👋
+# Hi, I'm Neville (Bob) Temu 👋
 
 **Systems & Electronics Engineer** based in Dar es Salaam, Tanzania.  
 I design the hardware, write the firmware, build the backend, and ship the mobile app — one engineer, complete solutions.
